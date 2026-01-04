@@ -70,6 +70,7 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 ---
 ## 📁 Repository Structure
 ├── Bank_Marketing_EDA_Customer_Subscription_Analysis.ipynb
+
 ├── README.md
 
 ---
@@ -77,9 +78,4 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 ##  Conclusion
 This project demonstrates how **exploratory data analysis** can be used to uncover customer behavior patterns and support **data-driven decision-making** in banking and marketing domains. The insights generated can help improve campaign efficiency, reduce operational costs, and increase conversion rates.
 
----
-
-
-
-## 📁 Repository Structure
 
